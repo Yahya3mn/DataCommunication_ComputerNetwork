@@ -1,0 +1,994 @@
+Received: yusuf has joined
+
+Received: bilal has joined
+
+Received: bilal has joined
+
+[2024-01-11 00:30:46] From yahya: merhabaa CRC:FD8F checksum: 0331
+ Received: [2024-01-11 00:30:46] yahya: merhabaa
+ Checksum : 0331W CRC : FD8F
+
+Received: [2024-01-11 00:30:46] yahya: merhabaa
+ Checksum : 0331W CRC : FD8F
+
+[2024-01-11 00:32:48] From yusuf: mmmeerrrhhaba CRC:D3A7 checksum: 055B
+ Received: [2024-01-11 00:32:R8] yusuf: mmmeerrrhhaba
+ Checksum : 055B  CRC : D3A7
+
+Received: [2024-01-11 00:32:R8] yusuf: mmmeerrrhhaba
+ Checksum : 055B  CRC : D3A7
+
+Received: bilal has left
+
+Received: bilal has left
+
+[2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ [2024-01-11 00:46:20] From yusuf:  CRC:FFFF checksum: 0000
+ Received: [2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2B24-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFQF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+
+Received: [2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  HRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 
+Received: 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ CheckDum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yus
+Received: uf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuR: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01
+Received: -11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ CheOksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CR
+Received: C : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum :K0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Ch
+Received: ecksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 00Y0  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:4
+Received: 6:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ ChecksuI : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+Received: 
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: D Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum :
+Received:  0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[S024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+[2024-01-11 00:46:20] yusuf: 
+ Checksum : 0000  CRC : FFFF
+yusuf has left
+
